@@ -36,9 +36,9 @@ MISAL DEPANNYA PAKE TANDA PETIK DI ATAS 1 (`) BERARTI DI AKHIRNYA HARUS DI TUTUP
 ❗MAU BELI SCRIPT YANG NO ENC ? KE PM BAWA DANA, HARGA BISIK BISIK :V (6281231951590)
 ────────────────────────────────────────────────────────────────────────────────────────                                                                                                                                                                                                                                                                */
 limitawal = "50" //LIMIT AWAL
-namabot = "Its Me Xinzz" //NAMA BOT
-namaowner = "OWNER Xinzz🎖️" //NAMA OWNER
-nomerowner = '6281994112523' //NOMER OWNER
+namabot = "Its Me Rozxx" //NAMA BOT
+namaowner = "OWNER Rozakx🎖️" //NAMA OWNER
+nomerowner = '6283122976095' //NOMER OWNER
 gamewaktu = "300" //3 = 3 detik || 30 = 30 detik .Dst
 numbernye = "0" //GAUSAH DI UBAH JUGA GPP
 gcounttprem = "35" //LIMIT GAME AWAL UNTUK USER PREMIUM
@@ -74,7 +74,7 @@ sewabot: `━ 「 𝗦𝗘𝗪𝗔 𝗕𝗢𝗧 」 ━
 
 10K / BULAN
 
-minat? wa.me/${nomerowner}`,
+minat? wa.me/${6183122976095}`,
 
 noregis: `─ 「 *NOT REGISTERED* 」 ─
 
